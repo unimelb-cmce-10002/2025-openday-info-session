@@ -1,2 +1,5 @@
 /.quarto/
 *.pdf
+.Rproj.user
+*.Rproj
+.Rhistory

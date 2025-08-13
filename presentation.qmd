@@ -1,7 +1,10 @@
 ---
-title: "Presentation"
+title: |
+   | Business Analytics:
+   | Information Session 
+subtitle: "2025 Open Day"
 author: "Lachlan Deer"
-institute: "Somewhere"
+institute: "University of Melbourne"
 format: 
   beamer: 
     aspectratio: 32
@@ -9,34 +12,161 @@ format:
     theme: mousteau
 ---
 
-# In the morning
+## Should Companies Buy Search Engine Ads?
 
-## Getting up
+![](fig/sem_2.jpg)
 
-- Turn off alarm
-- Get out of bed
+\vspace{-0.25cm}
+\begin{center}
+\textit{If you’re already showing up — why pay to show up twice?
+}
+\end{center}
 
-## Breakfast
+## Why Business Analytics?
 
-- Eat eggs
-- Drink coffee
+![](fig/rise_of_ba_2.jpg)
 
-# In the evening
+\vspace{-0.25cm}
+\begin{center}
+\textit{The most powerful person in the room is now the one who understands and interprets the data — that can be you}
+\end{center}
 
-## Dinner
+## What is Business Analytics Anyway?
 
-- Eat spaghetti
-- Drink wine
+\begin{center}
+\Large
+\alert{\textbf{Business Analytics is how you turn data into smart decisions.}}
+\end{center}
 
-## Going to sleep
+\vspace{0.5cm}
 
-- Get in bed
-- Count sheep
+::: {.columns}
+::: {.column width="55%"}
 
-# Before I Sleep
+It combines:
 
-## I write equations
+* The mindset of a **problem-solver**
+* The tools of a **data analyst**
+* The clarity of a **good communicator**
 
-$$
-y = x \beta + \varepsilon
-$$
+\vspace{0.5cm}
+
+We use it to:
+
+1. Spot patterns
+2. Predict outcomes
+3. Test ideas
+4. Challenge assumptions
+
+:::
+
+::: {.column width="45%"}
+![](fig/hipster_analyst.png)
+:::
+:::
+
+\begin{center}
+\large
+\textit{Business Analytics is the bridge between the spreadsheet and the boardroom}
+\end{center}
+
+## How you will learn Business Analytics 
+
+You will learn how to answer "**\alert{What if}** questions" across a wide range of business disciplines where ...
+
+1. The future *is* like the past - i.e. Predictive Analytics
+
+2. The future *is not* like the past - i.e. Causal Analytics
+
+Using a toolkit of:
+
+- **Technical programming skills** — so you can do the analysis
+- **Communication skills** — so you can explain results to people who don't speak code
+
+To ultimately become:
+
+1. A \alertc{\textbf{business scientist}} — someone who thinks critically with data; and
+
+2. A \alertc{\textbf{data interpreter}} — someone who translates complexity into clarity
+
+## More Than Just Using 'Tools'
+
+**Student Expectations**:
+
+- How to write code  
+- How to build charts  
+- How to fit models  
+
+**\alert{Versus Reality}**: 
+
+Using data to **\alertc{tackle messy, ambiguous, and important}** business problems.
+
+This version of reality requires:
+
+- Judgement  
+- Sharp, answerable questions  
+- Knowing which tools to use—and when
+
+## Courses You Can Take
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out.width: "\\linewidth"
+#| out.height: "0.9\\textheight"
+knitr::include_graphics("fig/courses_2.png")
+```
+
+
+## Sample Study Plan
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out.width: "\\linewidth"
+#| out.height: "0.9\\textheight"
+knitr::include_graphics("fig/study_plan_2.png")
+```
+
+## So What About AI?
+
+AI can (usually) write code, generate charts, and surface patterns. But it can’t:
+
+- Understand business context  
+- Judge what matters  
+- Navigate politics or ambiguity  
+- Communicate with nuance  
+
+
+Implication: AI can help spot patterns—but **only people know what they mean, why they matter, and what to do next**.
+
+Learn how to use AI as a **tool**, not a replacement
+ 
+* Good analysts use AI to work faster—**not to think less**.
+
+## Complementary to Other Majors & Employable
+
+\begin{center}
+\large
+\textbf{\alert{Business Analytics is the glue that brings theory and evidence \\ together within the BCom}}
+\end{center}
+
+It gives you the tools to **ask smarter questions** and **back up your ideas** with evidence — no matter your major.
+
+- Marketers test campaigns
+- Finance students model risk
+- Economists simulate policy
+- HR Managers optimize employee performance
+
+Graduates are **highly employable** across a range of fields
+
+\vspace{-0.25cm}
+
+![](fig/jobs.jpg){ width=100% }
+
+
+## Want to learn more?
+
+\begin{center}
+  \includegraphics[width=0.45\linewidth]{fig/qr_code.png}
+\end{center}
